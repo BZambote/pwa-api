@@ -1,0 +1,26 @@
+{
+  "name": "pwa-api",
+  "version": "1.0.0",
+  "description": "API NODE JS",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js",
+      "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BZambote/pwa-api.git"
+  },
+  "author": "Bruno Zambote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BZambote/pwa-api/issues"
+  },
+  "homepage": "https://github.com/BZambote/pwa-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
